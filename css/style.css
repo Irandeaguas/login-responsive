@@ -11,7 +11,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 height: 100vh;
-background-image: url(img/fondo.jpg);
+background-image: url(/img/fondo.jpg);
 background-size: cover;
 }
 
